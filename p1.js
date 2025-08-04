@@ -108,6 +108,9 @@ imcrement = startingSalary * percentage
 
 
 }
+// 1 15750 787.5
+// 2 16537.5 826.875
+// 3 17364.375 868.21875
 
 // while loop
 
